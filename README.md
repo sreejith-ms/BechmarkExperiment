@@ -1,2 +1,2 @@
-# BechmarkExperiments
-Bechmark experiments using BenchmarkDotNet.
+# BechmarkExperiment
+Bechmark experiment using BenchmarkDotNet.
